@@ -26,6 +26,8 @@ Representations of p-adic groups, Automorphic L-functions.
 
 ### Publications
 
+13, (Joint with [Clifton Cunningham](http://contacts.ucalgary.ca/info/math/profiles/101-152934) and [Andrew Fiori](http://www.cs.uleth.ca/~fiori/)), Arthur packets for G2 and perverse sheaves on cubics, Advances in Mathematics, to appear, [arXiv: 2005.02438](https://arxiv.org/abs/2005.02438).
+
 12, (Joint with [Baiying Liu](https://www.math.purdue.edu/~liu2053/)), On a converse theorem for G2 over finite fields, Math. Ann., to appear, [Journal](http://link.springer.com/article/10.1007/s00208-021-02250-2),  [arXiv: 1811.10472](https://arxiv.org/abs/1811.10472).
 
 11, (Joint with [Baiying Liu](https://www.math.purdue.edu/~liu2053/)), Gamma factors and converse theorems for classical groups over finite fields, Journal of Number Theory, to appear, [journal](https://doi.org/10.1016/j.jnt.2021.06.024).
@@ -52,7 +54,7 @@ Representations of p-adic groups, Automorphic L-functions.
 
 ### Preprints
 
-13, (Joint with [Clifton Cunningham](http://contacts.ucalgary.ca/info/math/profiles/101-152934) and [Andrew Fiori](http://www.cs.uleth.ca/~fiori/)), Arthur packets for G2 and perverse sheaves on cubics, [arXiv: 2005.02438](https://arxiv.org/abs/2005.02438).
+
 
 14, (Joint with [Clifton Cunningham](http://contacts.ucalgary.ca/info/math/profiles/101-152934) and [Andrew Fiori](http://www.cs.uleth.ca/~fiori/)), Toward the endoscopic classification of unipotent representations of p-adic G2, submitted,  [arXiv: 2101.04578](https://arxiv.org/abs/2101.04578). 
 
