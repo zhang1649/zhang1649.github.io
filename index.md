@@ -1,6 +1,6 @@
 # Homepage of Qing Zhang 张庆
 ## Contact Information
-I am currently a visiting assistant professor at KAIST. 
+I am currently a visiting assistant professor at KAIST, Daejeon, Korea. 
 
 Email: zhang.qing@yahoo.com; qingzhang0@gmail.com
 
