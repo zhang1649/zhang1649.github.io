@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="0giyCWE_wh7Xdvrioq7HFSE4Dyhsdl4GVdRTq-tWQb0" />
 # Homepage of Qing Zhang 张庆
 ## Contact Information
 I am currently a visiting assistant professor at KAIST, Daejeon, Korea. 
@@ -64,5 +65,4 @@ Representations of p-adic groups, Automorphic L-functions.
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4QRkEVxmNpELPdYUPgf3j0u9u1BAOG_7yfWUI4fpLpU&cl=ffffff&w=a"></script>
 
 
-google51c55161a51fb01d.html
 
