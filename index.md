@@ -32,7 +32,7 @@ Representations of p-adic groups, Automorphic L-functions.
 
 12, (Joint with [Baiying Liu](https://www.math.purdue.edu/~liu2053/)), On a converse theorem for G2 over finite fields, Math. Ann., to appear, [Journal](http://link.springer.com/article/10.1007/s00208-021-02250-2),  [arXiv: 1811.10472](https://arxiv.org/abs/1811.10472).
 
-11, (Joint with [Baiying Liu](https://www.math.purdue.edu/~liu2053/)), Gamma factors and converse theorems for classical groups over finite fields, Journal of Number Theory, to appear, [journal](https://doi.org/10.1016/j.jnt.2021.06.024).
+11, (Joint with [Baiying Liu](https://www.math.purdue.edu/~liu2053/)), Gamma factors and converse theorems for classical groups over finite fields, Journal of Number Theory 234 (2022), 285-332, [journal](https://doi.org/10.1016/j.jnt.2021.06.024).
 
 10, On a Rankin-Selberg integral of the L-function for {\widetilde SL}(2)\times GL(2), Math. Z., 298(2021), 307-326, [journal](https://link.springer.com/article/10.1007/s00209-020-02611-8), [arXiv](https://arxiv.org/abs/2009.05980).
 
