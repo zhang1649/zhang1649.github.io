@@ -6,6 +6,7 @@ I am currently a visiting assistant professor at KAIST, Daejeon, Korea.
 
 Email: zhang.qing@yahoo.com; qingzhang0@gmail.com
 
+
 ## Brief CV
 
 ### Employment: 
@@ -59,6 +60,8 @@ Representations of p-adic groups, Automorphic L-functions.
 
 
 14, (Joint with [Clifton Cunningham](http://contacts.ucalgary.ca/info/math/profiles/101-152934) and [Andrew Fiori](http://www.cs.uleth.ca/~fiori/)), Toward the endoscopic classification of unipotent representations of p-adic G2, submitted,  [arXiv: 2101.04578](https://arxiv.org/abs/2101.04578). 
+
+[Teaching](https://zhang1649.github.io/zhangqing/teaching.html)
 
 ## Miscellaneous
 
