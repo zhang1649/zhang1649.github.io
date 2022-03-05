@@ -11,21 +11,8 @@ Email: zhang.qing@yahoo.com; qingzhang0@gmail.com
 ## [Teaching](https://zhang1649.github.io/zhangqing/teaching.html)
 
 
-## Brief CV
+## [Brief CV](https://zhang1649.github.io/zhangqing/CV.html)
 
-
-### Employment: 
- Visiting Assistant Professor, KAIST, 2020.08-
- 
- Postdoc, University of Calgary, 2018-08-2020.08
- 
- Research Associate, Sun Yat-Sen University, 2017-08-2018.07
- 
- Lecturer, The Ohio State University, 2016.08-2017.05
-          
-### Education:
-Ph.D, The Ohio State University, 2016, 
-Advisor: [Jim Cogdell](https://people.math.osu.edu/cogdell.1/)
 
 
 ## Research
