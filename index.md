@@ -7,12 +7,9 @@ I am currently a visiting assistant professor at KAIST, Daejeon, Korea.
 Email: zhang.qing@yahoo.com; qingzhang0@gmail.com
 
 
-
-## [Teaching](https://zhang1649.github.io/zhangqing/teaching.html)
-
-
 ## [Brief CV](https://zhang1649.github.io/zhangqing/CV.html)
 
+## [Teaching](https://zhang1649.github.io/zhangqing/teaching.html)
 
 
 ## Research
