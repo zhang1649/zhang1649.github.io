@@ -9,7 +9,6 @@ Email: zhang.qing@yahoo.com; qingzhang0@gmail.com
 
 ## [Brief CV](https://zhang1649.github.io/zhangqing/CV.html)
 ## [Research](https://zhang1649.github.io/zhangqing/research.html)
-
 ## [Teaching](https://zhang1649.github.io/zhangqing/teaching.html)
 
 
