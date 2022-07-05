@@ -4,7 +4,7 @@
 
 ## Contact Information
 
-I am currently a visiting assistant professor at KAIST, Daejeon, Korea. 
+I am currently a visiting assistant professor in KAIST, Daejeon, Korea. 
 
 Email: zhang.qing@yahoo.com; qingzhang0@gmail.com
 
