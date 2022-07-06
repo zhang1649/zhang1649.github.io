@@ -19,5 +19,5 @@ Email: zhang.qing@yahoo.com; qingzhang0@gmail.com
 
 
 <p>
-<a href="https://clustrmaps.com/site/1bp8n"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=JG6HC4kf1JwpVziEF_V3GB1ZWz2EenPJJKK5KRrw1I8&cl=ffffff" /></a>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=JG6HC4kf1JwpVziEF_V3GB1ZWz2EenPJJKK5KRrw1I8"></script>
 </p>
