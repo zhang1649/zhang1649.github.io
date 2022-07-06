@@ -1,6 +1,7 @@
 
 <h1> Homepage of Qing Zhang(张庆)
   </h1>
+  
 <meta name="google-site-verification" content="0giyCWE_wh7Xdvrioq7HFSE4Dyhsdl4GVdRTq-tWQb0" />
 
 <h2> Contact Information
@@ -13,7 +14,8 @@
 <p> Email: zhang.qing@yahoo.com; qingzhang0@gmail.com
   </p>
 
-## [Research](https://zhang1649.github.io/research.html)
+<h2> [Research](https://zhang1649.github.io/research.html)
+  </h2>
 ## [Teaching](https://zhang1649.github.io/teaching.html)
 ## [Brief CV](https://zhang1649.github.io/CV.html)
 
