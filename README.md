@@ -14,9 +14,10 @@
 <p> Email: zhang.qing@yahoo.com; qingzhang0@gmail.com
   </p>
 
-<h2> [Research](https://zhang1649.github.io/research.html)
-  </h2>
+## [Research](https://zhang1649.github.io/research.html)
+ 
 ## [Teaching](https://zhang1649.github.io/teaching.html)
+
 ## [Brief CV](https://zhang1649.github.io/CV.html)
 
 
