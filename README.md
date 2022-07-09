@@ -9,11 +9,11 @@ I am currently a visiting assistant professor in the Department of Mathematics, 
 Email: zhang.qing@yahoo.com; qingzhang0@gmail.com
 
 
-## [Research](https://zhang1649.github.io/research.html)
+## [Research](https://qingzhang-math.github.io/research.html)
 
-## [Teaching](https://zhang1649.github.io/teaching.html)
+## [Teaching](https://qingzhang-math.github.io/teaching.html)
 
-## [Brief CV](https://zhang1649.github.io/CV.html)
+## [Brief CV](https://qingzhang-math.github.io/CV.html)
 
 
 
