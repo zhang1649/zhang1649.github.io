@@ -21,5 +21,5 @@ Email: zhang.qing@yahoo.com; qingzhang0@gmail.com
 <p style="margin-bottom:3cm;"> </p>
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=JG6HC4kf1JwpVziEF_V3GB1ZWz2EenPJJKK5KRrw1I8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uRB0RyxJ4eZmaEvV0IXCCN02o8ucTakqcgugWwTLbuM&cl=ffffff&w=a"></script>
 
